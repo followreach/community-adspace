@@ -1,0 +1,20 @@
+{
+  "whatsapp_community": {
+    "enabled": true,
+    "title": "Official TikExchange Community",
+    "subtitle": "Connect with creators, share tips, and grow faster.",
+    "group_url": "https://chat.whatsapp.com/YOUR_WHATSAPP_GROUP_LINK",
+    "button_text": "Join Group"
+  },
+  "featured_spotlight": {
+    "enabled": true,
+    "badge": "Ad Space",
+    "title": "🌟 FEATURED SPOTLIGHT",
+    "description": "Put your profile or video in front of thousands of active creators instantly.",
+    "durations": ["24 Hours", "3 Days", "1 Week"],
+    "sales_team": {
+      "email": "meouhada@yahoo.com",
+      "whatsapp": "+36 706202902"
+    }
+  }
+}
