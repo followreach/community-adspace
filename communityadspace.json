@@ -11,6 +11,12 @@
     "badge": "Ad Space",
     "title": "🌟 FEATURED SPOTLIGHT",
     "description": "Put your profile or video in front of thousands of active creators instantly.",
+    "active_promotion": {
+      "creator_name": "@CreatorSpotlight",
+      "target_link": "https://www.tiktok.com/@creator_EDw2",
+      "image_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=60",
+      "campaign_duration": "3 Days"
+    },
     "durations": ["24 Hours", "3 Days", "1 Week"],
     "sales_team": {
       "email": "meouhada@yahoo.com",
