@@ -1,13 +1,13 @@
 {
   "whatsapp_community": {
-    "enabled": true,
+    "enabled": false,
     "title": "Official TikExchange Community",
     "subtitle": "Connect with creators, share tips, and grow faster.",
     "group_url": "https://chat.whatsapp.com/HwVpGQBoMd0Av1dYTIABRh?mode=gi_t",
     "button_text": "Join Group"
   },
   "featured_spotlight": {
-    "enabled": true,
+    "enabled": false,
     "badge": "Ad Space",
     "title": "🌟 FEATURED SPOTLIGHT",
     "description": "Put your profile or video in front of thousands of active creators instantly.",
